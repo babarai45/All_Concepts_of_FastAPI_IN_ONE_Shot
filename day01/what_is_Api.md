@@ -59,7 +59,14 @@ One More definition
 ![img.png](assests/img.png)
 ![whatisapi.png](assests/whatisapi.png)
 
+<br>
 
+![what-is-api.jpg](assests/what-is-api.jpg)
 
+<br>
 
+<div align=" center ">
 
+<h3> <strong> Happy learning with Babar 🥰 </strong>  </h3>
+
+</div>
