@@ -21,7 +21,7 @@
 
 <tr> <td> Day03 3️⃣ </td>
 <td>What is Request </td>
-<td><a href="day02/types_of_api.md"> Click Here 🔽</a></td>
+<td><a href="day03/waht_is_request.md"> Click Here 🔽</a></td>
 <td>Status ✅</td>
 </tr>
 
