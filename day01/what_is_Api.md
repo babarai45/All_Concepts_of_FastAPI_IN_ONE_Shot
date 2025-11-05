@@ -47,5 +47,19 @@ Interface : How things are allow to each other how to communicate two or many  a
 
 One More definition
 </h1>
----
+
+# 👎
 ![API2.png](assests/API2.png)
+
+<br>
+
+# now we see with Real-Analogies pictures
+### Resturent Example
+
+![img.png](assests/img.png)
+![whatisapi.png](assests/whatisapi.png)
+
+
+
+
+
