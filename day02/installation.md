@@ -1,58 +1,10 @@
+<div align="center">
 
+<h1> Types of API </h1>
 
+</div>
 
-``` py
-uv add "fastapi[standard]"
-```
+<hr>
+<hr>
 
-Resolved 42 packages in 51ms
-      Built rignore==0.7.4
-Prepared 1 package in 17.86s
-░░░░░░░░░░░░░░░░░░░░ [0/40] Installing wheels...                                                       warning: Failed to hardlink files; falling back to full copy. This may lead to degraded performance.
-         If the cache and target directories are on different filesystems, hardlinking may not be supported.
-         If this is intentional, set `export UV_LINK_MODE=copy` or use `--link-mode=copy` to suppress this warning.
-Installed 40 packages in 797ms
- + annotated-doc==0.0.3
- + annotated-types==0.7.0
- + anyio==4.11.0
- + certifi==2025.10.5
- + click==8.3.0
- + colorama==0.4.6
- + dnspython==2.8.0
- + email-validator==2.3.0
- + fastapi==0.121.0
- + fastapi-cli==0.0.14
- + fastapi-cloud-cli==0.3.1
- + h11==0.16.0
- + httpcore==1.0.9
- + httptools==0.7.1
- + httpx==0.28.1
- + idna==3.11
- + jinja2==3.1.6
- + markdown-it-py==4.0.0
- + markupsafe==3.0.3
- + mdurl==0.1.2
- + pydantic==2.12.3
- + pydantic-core==2.41.4
- + pygments==2.19.2
- + python-dotenv==1.2.1
- + python-multipart==0.0.20
- + pyyaml==6.0.3
- + rich==14.2.0
- + rich-toolkit==0.15.1
- + rignore==0.7.4
- + sentry-sdk==2.43.0
- + shellingham==1.5.4
- + sniffio==1.3.1
- + starlette==0.49.3
- + typer==0.20.0
- + typing-extensions==4.15.0
- + typing-inspection==0.4.2
- + urllib3==2.5.0
- + uvicorn==0.38.0
- + watchfiles==1.1.1
- + websockets==15.0.1
-
-
-
-# NOw we will learn about each module and package as well 
+![tyeps-api.png](assets/tyeps-api.png)
