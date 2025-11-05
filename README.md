@@ -26,7 +26,11 @@
 </tr>
 
 
-<tr> <td> Day01 </td></tr>
+<tr> <td> Day04 4️⃣ </td>
+<td>What Happen🤔 when you Enter url in Browser </td>
+<td><a href="day04/waht_happen_when_enter urls.md"> Click Here 🔽</a></td>
+<td>Status ✅</td>
+</tr>
 
 
 </thead>
