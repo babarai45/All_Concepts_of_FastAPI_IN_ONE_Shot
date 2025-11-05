@@ -6,7 +6,7 @@
 
 <hr>
 
-![img](assets/img.png)
+![img](assets/requst.png)
 
 <hr>
 
@@ -46,6 +46,9 @@ An API request usually has these parts:
 | **Method (HTTP verb)** | The action you want to perform              | `GET`, `POST`, `PUT`, `DELETE`  |
 | **Headers**            | Metadata (like authentication, format info) | `Authorization: Bearer <token>` |
 | **Body (optional)**    | Data you send to the server (for POST/PUT)  | `{ "name": "Alice" }`           |
+
+### if you want to see about JSON(BODY) CLICK below 👇⤵️
+<a href ="body.md">See here </a>
 
 ---
 
@@ -125,9 +128,6 @@ flowchart TD
 ```
 
 ### How to view it
-1. Go to **[mermaid.live](https://mermaid.live)**
-2. Paste the code block above (including the triple backticks).
-3. The diagram renders instantly.
 
 ---
 
@@ -158,28 +158,3 @@ Happy coding! 🚀
 <h3> Happy Learning by Muhammad Babar 🥰</h3>
 </div>
 
-
-```mermiad 
-    flowchart TD
-        A[Client] -->|1. Prepare request| B[Build URL + Method + Headers + Body]
-        B -->|2. Send| C[Network / Internet]
-        C -->|3. Route| D[Load Balancer / CDN]
-        D -->|4. Reach| E[API Server]
-    
-        subgraph API Server
-            E --> F{Authenticate?}
-            F -->|Valid| G[Run Business Logic]
-            F -->|Invalid| H[Return 401/403]
-            G --> I[Build Response]
-        end
-    
-        I -->|6. Send| J[Network]
-        H -->|6. Send| J
-    
-        J -->|7. Deliver| K[Client]
-        K -->|8. Parse & Use| L[Update UI / Continue]
-    
-        style A fill:#4CAF50,color:#fff
-        style E fill:#2196F3,color:#fff
-        style K fill:#4CAF50,color:#fff
-```
