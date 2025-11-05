@@ -16,8 +16,16 @@
 <td>Types of API</td>
 <td><a href="day02/types_of_api.md"> Click Here 🔽</a></td>
 <td>Status ✅</td>
-
 </tr>
+
+
+<tr> <td> Day03 3️⃣ </td>
+<td>What is Request </td>
+<td><a href="day02/types_of_api.md"> Click Here 🔽</a></td>
+<td>Status ✅</td>
+</tr>
+
+
 <tr> <td> Day01 </td></tr>
 
 
